@@ -1,0 +1,1 @@
+# phyton_temel_proje
